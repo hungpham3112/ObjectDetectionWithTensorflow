@@ -6,7 +6,7 @@ A project detect products in general and support payments in particular serving 
 
 <img src="https://imgur.com/a/1N96iIy"> <img src="https://imgur.com/a/LHC4do2">
 
-<img src="https://imgur.com/a/1al5DXg">
+<img src="https://i.imgur.com/Qx6QePk_d.jpg?maxwidth=520&shape=thumb&fidelity=high">
 
 This repository contains a comprehensive solution for item recognition in supermarket systems using TensorFlow. The goal of this project is to streamline the checkout process by automatically identifying items and supporting payment processing, thus reducing the need for human cashiers and enhancing operational efficiency.
 
