@@ -4,7 +4,7 @@ A project detect products in general and support payments in particular serving 
 
 # Overview
 
-<img src="https://i.imgur.com/iViRxxP.png"> <img src="https://i.imgur.com/jga1wBa.png">
+<img src="https://i.imgur.com/iViRxxP.png"> 
 
 <img src="https://i.imgur.com/Qx6QePk_d.jpg?maxwidth=520&shape=thumb&fidelity=high">
 
