@@ -4,7 +4,7 @@ A project detect products in general and support payments in particular serving 
 
 # Overview
 
-<img src="https://imgur.com/a/1N96iIy"> <img src="https://imgur.com/a/LHC4do2">
+<img src="https://i.imgur.com/iViRxxP.png"> <img src="https://i.imgur.com/jga1wBa.png">
 
 <img src="https://i.imgur.com/Qx6QePk_d.jpg?maxwidth=520&shape=thumb&fidelity=high">
 
@@ -28,7 +28,7 @@ closes the display window
 
 ## Model using
 
-<img src="https://imgur.com/tqIAtUZ">
+<img src="https://i.imgur.com/tqIAtUZ.png">
 
 EfficientNet, introduced by Mingxing Tan and Quoc V. Le in 2019, is a family of models that aim to balance
 network depth, width, and resolution for efficient scaling. The key innovation behind EfficientNet is the
